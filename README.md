@@ -3,6 +3,8 @@
 
 Displays and plots csv files from the terminal.
 
+Done at the IMPRS Workshop in October 2018
+
 ## Installation
 
 ```bash
